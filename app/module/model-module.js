@@ -206,17 +206,17 @@ export default class Model{
             <h1 class="countryTourPackage">Australia tour package: </h1>
             <p class="startingFrom">STARTING FROM $1800</p>
         </div>
-        <img src="../images/tours/australia/banner.png" />
+        <img src="images/tours/australia/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/australia/content1.png" />
+            <img src="images/tours/australia/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/australia/content2.png" />
+            <img src="images/tours/australia/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/australia/content3.png" />
+            <img src="images/tours/australia/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -243,17 +243,17 @@ export default class Model{
             <h1 class="countryTourPackage">Canada tour package: </h1>
             <p class="startingFrom">STARTING FROM $2000</p>
         </div>
-        <img src="../images/tours/canada/banner.png" />
+        <img src="images/tours/canada/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/canada/content1.png" />
+            <img src="images/tours/canada/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/canada/content2.png" />
+            <img src="images/tours/canada/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/canada/content3.png" />
+            <img src="images/tours/canada/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -279,17 +279,17 @@ export default class Model{
             <h1 class="countryTourPackage">Egypt tour package: </h1>
             <p class="startingFrom">STARTING FROM $900</p>
         </div>
-        <img src="../images/tours/egypt/banner.png" />
+        <img src="images/tours/egypt/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/egypt/content1.png" />
+            <img src="images/tours/egypt/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/egypt/content2.png" />
+            <img src="images/tours/egypt/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/egypt/content3.png" />
+            <img src="images/tours/egypt/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -315,17 +315,17 @@ export default class Model{
             <h1 class="countryTourPackage">France tour package: </h1>
             <p class="startingFrom">STARTING FROM $2500</p>
         </div>
-        <img src="../images/tours/france/banner.png" />
+        <img src="images/tours/france/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/france/content1.png" />
+            <img src="images/tours/france/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/france/content2.png" />
+            <img src="images/tours/france/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/france/content3.png" />
+            <img src="images/tours/france/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -351,17 +351,17 @@ export default class Model{
             <h1 class="countryTourPackage">Israel tour package: </h1>
             <p class="startingFrom">STARTING FROM $1000</p>
         </div>
-        <img src="../images/tours/israel/banner.png" />
+        <img src="images/tours/israel/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/israel/content1.png" />
+            <img src="images/tours/israel/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/israel/content2.png" />
+            <img src="images/tours/israel/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/israel/content3.png" />
+            <img src="images/tours/israel/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -387,17 +387,17 @@ export default class Model{
             <h1 class="countryTourPackage">Japan tour package: </h1>
             <p class="startingFrom">STARTING FROM $1300</p>
         </div>
-        <img src="../images/tours/japan/banner.png" />
+        <img src="images/tours/japan/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/japan/content1.png" />
+            <img src="images/tours/japan/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/japan/content2.png" />
+            <img src="images/tours/japan/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/japan/content3.png" />
+            <img src="images/tours/japan/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -423,17 +423,17 @@ export default class Model{
             <h1 class="countryTourPackage">New Zealand tour package: </h1>
             <p class="startingFrom">STARTING FROM $1200</p>
         </div>
-        <img src="../images/tours/newZealand/banner.png" />
+        <img src="images/tours/newZealand/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/newZealand/content1.png" />
+            <img src="images/tours/newZealand/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/newZealand/content2.png" />
+            <img src="images/tours/newZealand/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/newZealand/content3.png" />
+            <img src="images/tours/newZealand/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -459,17 +459,17 @@ export default class Model{
             <h1 class="countryTourPackage">U.A.E tour package: </h1>
             <p class="startingFrom">STARTING FROM $3000</p>
         </div>
-        <img src="../images/tours/uae/banner.png" />
+        <img src="images/tours/uae/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/uae/content1.png" />
+            <img src="images/tours/uae/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/uae/content2.png" />
+            <img src="images/tours/uae/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/uae/content3.png" />
+            <img src="images/tours/uae/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
@@ -495,17 +495,17 @@ export default class Model{
             <h1 class="countryTourPackage">U.S.A tour package: </h1>
             <p class="startingFrom">STARTING FROM $1500</p>
         </div>
-        <img src="../images/tours/usa/banner.png" />
+        <img src="images/tours/usa/banner.png" />
     </div>
     <div class="localeRowTour">
         <div>
-            <img src="../images/tours/usa/content1.png" />
+            <img src="images/tours/usa/content1.png" />
         </div>
         <div>
-            <img src="../images/tours/usa/content2.png" />
+            <img src="images/tours/usa/content2.png" />
         </div>
         <div>
-            <img src="../images/tours/usa/content3.png" />
+            <img src="images/tours/usa/content3.png" />
         </div>
     </div>
     <div id="aboutMainSection">
